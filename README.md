@@ -1,1 +1,1 @@
-# Design-Patterns
+# [KTO Bilgisayar Programcılığı] Design-Patterns
